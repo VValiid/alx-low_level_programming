@@ -8,11 +8,11 @@
  * Determines if a randomly generated number is positive or negative.
  *
  * Return: 0 (success)
- */
+*/
 
 int main(void)
 {
-	int n ;
+	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
