@@ -6,7 +6,7 @@
  * main - entry point
  * 
  * Determines if a randomly generated number is positive or negative.
- * 
+ *
  * Return: 0 (success)
  */
 
