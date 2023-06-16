@@ -5,7 +5,7 @@
 /**
  * main - entry point
  *
- * Description: false or true validation
+ * Determines if a randomly generated number is positive or negative.
  *
  * return: 0 (success)
 */
